@@ -4,7 +4,7 @@
 | :- | :-: | :-: | :-: | :-: |
 |H\_01|Electricity bill calculation is done based of the units consumed|Choice|SUCCESS|SUCCESS|
 |H\_02|Electricity bill is recorded in text file| NA |SUCCESS|SUCCESS|
-|H\_03 User has a feature see their previous bills.| NA |SUCCESS|SUCCESS|
+|H\_03|User has a feature see their previous bills.| NA |SUCCESS|SUCCESS|
 |H\_04|Amount of bill differs based of consumption of units.|Choice|SUCCESS|SUCCESS|
 
 
