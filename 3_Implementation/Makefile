@@ -2,8 +2,7 @@
 # Name of the project
 PROJECT_NAME = EbillCalculator
 
-# Output directory
-BUILD = build
+
 
 # All source code files
 SRC = src/Ebill.c\
@@ -26,7 +25,7 @@ INC	= -Iinc\
 INCLUDE_LIBS =
 
 # Project Output name
-PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
+PROJECT_OUTPUT =$(PROJECT_NAME).out
 
 # Document files
 DOCUMENTATION_OUTPUT = documentation/html
@@ -37,7 +36,7 @@ $(PROJECT_NAME):all
 # Run the target even if the matching name exists
 .PHONY: run clean test doc all
 
-all: $(SRC) $(BUILD)
+all: $(SRC) 
 	gcc $(SRC) $(INC) -o $(PROJECT_OUTPUT)
 
 # Call `make run` to run the application
@@ -49,7 +48,7 @@ run:$(PROJECT_NAME)
 #	make -C ./documentation
 
 # Build and run the unit tests
-test:$(BUILD)
+test:
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT)
 	./$(TEST_OUTPUT)
 #Coverage
@@ -59,8 +58,6 @@ coverageCheck:$(BUILD)
 
 # Remove all the built files, invoke by `make clean`
 clean:
-	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
+	rm -rf  $(DOCUMENTATION_OUTPUT)
 
 # Create new build folder if not present
-$(BUILD):
-	mkdir build
