@@ -8,3 +8,4 @@
 
 * [![Build-linux](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/linux%20-build.yml/badge.svg)](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/linux%20-build.yml)
 * [![Unit testing](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/unit-testing.yml/badge.svg)](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/unit-testing.yml)
+* [![Build-C](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml/badge.svg)](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml)
