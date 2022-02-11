@@ -11,3 +11,5 @@
 * [![Build-C](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml/badge.svg)](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml)
 
 * [![cppcheck-action](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/c-cpp.yml)
+
+* [![Valgrind](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Valgrind.yml)
