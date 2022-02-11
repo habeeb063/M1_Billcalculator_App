@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test 3_Implementation/
-        valgrind 3_Implementation/Test_Calculator.out
+        valgrind 3_Implementation/Test_EbillCalculator.out
