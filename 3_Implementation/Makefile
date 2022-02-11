@@ -6,13 +6,13 @@ PROJECT_NAME = EbillCalculator
 BUILD = build
 
 # All source code files
-SRC = Ebill.c\
+SRC = src/Ebill.c\
 main.c
 
 # All test source files
-TEST_SRC = Ebill.c\
-test_operations.c\
-unity.c\
+TEST_SRC = src/Ebill.c\
+test/test_operations.c\
+unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 

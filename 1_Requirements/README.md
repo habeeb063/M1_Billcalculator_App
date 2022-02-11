@@ -1,29 +1,11 @@
-# Description
+## Description
 
 * The Electricity Bill calculator project is the application based mini project, which is used to predict the electricity bill of next month.
 
 * Design of the bill calculator is done using c program.
 
-# Requirements
+## Requirements
 
-**HIGH LEVEL**
-
-* Electricity Bill is calculated based of the units consumed.
-* Each entry of the user is calculated and stored in text file.
-
-* User can also see their previous bills.
-
-* Amount of bill differs based of consumption of units.
-
-**LOW LEVEL**
-
-* User has to enter the units consumed.
-
-* User has to enter his details in order to store the data.
-
-* User has to press 'y' to see therir Previous bills.
-
-* Based on units the amount is refelected on the bill.
 
 **4'W and 1'H**
 
