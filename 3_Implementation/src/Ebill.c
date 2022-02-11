@@ -76,5 +76,5 @@ void display ()
    do{
        putchar(c=getc(info));
        }while(c!=EOF);}
-     fclose(info);
+
 }
