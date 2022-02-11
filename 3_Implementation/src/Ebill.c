@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include<conio.h>
+
 #include"Ebill.h"
 
 
@@ -55,12 +55,11 @@ void Bill()
 void display ()
 {
  char csname[20],ncsname[20],cha,c;
-   int i,j,qx;
+   int i,j,qx,y;
    char * px;
    FILE *info;
    info=fopen("record.txt","a+");
-   getch();
-   system("cls");
+  
    fprintf(info,"Comsumer  Name :%s\n",px=B.name);
    fprintf(info,"Consumer Email:%s\n",px=B.email); 
    fprintf(info,"Units Consumed:%d\n",qx=B.unitsconsumed);
@@ -69,9 +68,9 @@ void display ()
    fprintf(info,"%c",'_');
    fprintf(info,"\n");
    fclose(info);
-   printf("Press 'y' to see the previous details \n");
-   cha=getch();
-   system("cls");
+   printf("Press '1' to see the previous details \n");
+   scanf("%d", &y);
+   
    if(cha=='y'){
    info=fopen("record.txt","r");
    do{
