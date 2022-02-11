@@ -1,0 +1,6 @@
+## IMAGES##
+
+# Consumer Input
+
+
+![Consumer Input](https://github.com/habeeb063/M1_Billcalculator_Utilities/blob/master/2_Architecture/Structural%20Diagram/High%20level%20structural%20diagram.jpg?raw=true)
