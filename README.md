@@ -36,6 +36,6 @@ Folder            | Description
 `4_Test_planAndOutput` | Test plans and Output
 `5_Report`             | Report of the project
 `6_ImagesAndVideos`    | Report of the project
-`7_Other`              | Report of the project
+`7_Other`              | References of the project
 
 
