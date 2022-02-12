@@ -22,7 +22,7 @@
 |![Build-linux](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/linux%20-build.yml/badge.svg)|![Build-C](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml/badge.svg)|![Unit testing](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/unit-testing.yml/badge.svg)|![cppcheck-action](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/c-cpp.yml/badge.svg)|![Valgrind](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Valgrind.yml/badge.svg)|
 
 ## Folder Structure
-     Folder            |          Description
+Folder            | Description
 -----------------------| -----------------------------------------
 `0_Certificates`       | Certificates achieved during project.
 `1_Requirements`       | Documents detailing requirements
