@@ -20,3 +20,16 @@
 |Build- linux|Build C|Unit Test|cppcheck|Valgrind|
 |:--:|:--:|:--:|:--:|:--:|
 |![Build-linux](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/linux%20-build.yml/badge.svg)|![Build-C](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml/badge.svg)|![Unit testing](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/unit-testing.yml/badge.svg)|![cppcheck-action](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/c-cpp.yml/badge.svg)|![Valgrind](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Valgrind.yml/badge.svg)|
+
+## Folder Structure
+     Folder            |          Description
+-----------------------| -----------------------------------------
+`0_Certificates`       | Certificates achieved during project.
+`1_Requirements`       | Documents detailing requirements
+`2_Architecture`       | Documents specifying design details
+`3_Implementation`     | All code and documentation
+`4_Test_planAndOutput` | Documents with test plans and procedures
+`5_Report`             | Report of the project
+`6_ImagesAndVideos`    | Report of the project
+`7_Other`              | Report of the project
+
