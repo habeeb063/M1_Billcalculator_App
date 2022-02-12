@@ -1,3 +1,9 @@
+## Description
+
+* The Electricity Bill calculator project is the application based mini project, which is used to calculate the electricity bill of the month.
+
+* Design of the bill calculator is done using C program. 
+
 ## Codiga Code Analysis
 * ![Code Quality](https://api.codiga.io/project/31080/score/svg)
 
