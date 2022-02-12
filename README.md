@@ -1,5 +1,4 @@
 
-=======
 ## Description
 
 * The Electricity Bill calculator project is the application based mini project, which is used to calculate the electricity bill of the month.
