@@ -35,7 +35,7 @@ Folder            | Description
 `3_Implementation`     | All code and documentation
 `4_Test_planAndOutput` | Test plans and Output
 `5_Report`             | Report of the project
-`6_ImagesAndVideos`    | Report of the project
+`6_ImagesAndVideos`    | Images of the project
 `7_Other`              | References of the project
 
 
