@@ -71,7 +71,7 @@ void display ()
    printf("Press '1' to see the previous details \n");
    scanf("%d", &y);
    
-   if(cha=='y'){
+   if(y==1){
    info=fopen("record.txt","r");
    do{
        putchar(c=getc(info));
