@@ -13,5 +13,4 @@
 
 |Build- linux|Build C|Unit Test|cppcheck|Valgrind|
 |:--:|:--:|:--:|:--:|:--:|
-|![Build-linux](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/linux%20-build.yml/badge.svg)]|![Build-C](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml/badge.svg)]
-|![Unit testing](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/unit-testing.yml/badge.svg)]|![cppcheck-action](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/c-cpp.yml/badge.svg)]|![Valgrind](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Valgrind.yml/badge.svg)]|
+|![Build-linux](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/linux%20-build.yml/badge.svg)]|![Build-C](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Build%20C.yml/badge.svg)]|![Unit testing](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/unit-testing.yml/badge.svg)]|![cppcheck-action](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/c-cpp.yml/badge.svg)]|![Valgrind](https://github.com/habeeb063/M1_Billcalculator_App/actions/workflows/Valgrind.yml/badge.svg)]|
