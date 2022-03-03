@@ -1,5 +1,3 @@
-
-
 #ifndef __Ebill_H__
 #define __Ebill_H__
 
@@ -12,7 +10,6 @@ struct Amount
 {
 	int amount ;
 };
-
 
 
 struct Amount A;
