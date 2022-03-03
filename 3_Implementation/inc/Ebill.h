@@ -30,10 +30,9 @@ struct Amount A;
  */
 struct Bill
 {
-	
 	char name[20];
 	int meternumber;
-    int unitsconsumed;
+        int unitsconsumed;
 	char email[20];
 	int phonenumber[11];
 };
