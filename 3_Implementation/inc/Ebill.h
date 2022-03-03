@@ -8,7 +8,7 @@
 
 struct Amount
 {
-	int amount ;
+ int amount ;
 };
 
 
