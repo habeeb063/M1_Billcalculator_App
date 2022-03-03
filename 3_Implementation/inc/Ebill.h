@@ -1,5 +1,4 @@
-#ifndef __Ebill_H__
-#define __Ebill_H__
+
 /**
  * @file Ebill.h
  * @author K Mohammad Habeeb (habeebmohammed6666@gmail.com)
@@ -10,7 +9,9 @@
  * @copyright Copyright (c) 2022
  * 
  */
- 
+ #ifndef __Ebill_H__
+#define __Ebill_H__
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -20,6 +21,11 @@ struct Amount
 {
 	int amount ;
 };
+
+/**
+ * @brief Stores the amount
+ * 
+ */
 
 struct Amount A;
 
