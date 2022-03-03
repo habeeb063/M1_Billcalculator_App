@@ -16,7 +16,10 @@
 #include<stdlib.h>
 #include<string.h>
 
-
+/**
+ * @brief Stores the amount
+ * 
+ */
 struct Amount
 {
 	int amount ;
@@ -28,6 +31,10 @@ struct Amount
  */
 
 struct Amount A;
+/**
+ * @brief Stores the amount
+ * 
+ */
 
 struct Bill
 {
@@ -39,11 +46,21 @@ struct Bill
 };
 
 struct Bill B;
-
+/**
+ * @brief Stores the amount
+ * 
+ */
 void details();
+/**
+ * @brief Stores the amount
+ * 
+ */
 
 void Bill();
-
+/**
+ * @brief Stores the amount
+ * 
+ */
 void display ();
 
 #endif
