@@ -1,6 +1,15 @@
 #ifndef __Ebill_H__
 #define __Ebill_H__
-
+/**
+ * @file Ebill.h
+ * @author K Mohammad Habeeb (habeebmohammed6666@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2022-03-03
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
  
 #include<stdio.h>
 #include<stdlib.h>
