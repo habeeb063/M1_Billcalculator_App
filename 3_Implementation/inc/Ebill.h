@@ -3,7 +3,7 @@
 /**
  * @file Ebill.h
  * @author K Mohammad Habeeb (habeebmohammed6666@gmail.com)
- * @brief 
+ * @brief Calculates the Electricity Bill
  * @version 0.1
  * @date 2022-03-03
  * 
