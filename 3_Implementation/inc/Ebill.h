@@ -1,8 +1,6 @@
 #ifndef __Ebill_H__
 #define __Ebill_H__
 
-
- 
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -13,7 +11,9 @@ struct Amount
 	int amount ;
 };
 
+
 struct Amount A;
+
 
 struct Bill
 {

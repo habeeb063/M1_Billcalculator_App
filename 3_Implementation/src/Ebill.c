@@ -4,8 +4,6 @@
 #include"Ebill.h"
 
 
-
-
 void details()
 {
    
